@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Agenda_Turnos/1.0.0": {
+        "runtime": {
+          "Agenda_Turnos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agenda_Turnos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\bin\Debug\net8.0\Agenda_Turnos.exe
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\bin\Debug\net8.0\Agenda_Turnos.deps.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\bin\Debug\net8.0\Agenda_Turnos.runtimeconfig.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\bin\Debug\net8.0\Agenda_Turnos.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\bin\Debug\net8.0\Agenda_Turnos.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\Agenda_Turnos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\Agenda_Turnos.AssemblyInfoInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\Agenda_Turnos.AssemblyInfo.cs
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\Agenda_Turnos.csproj.CoreCompileInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\Agenda_Turnos.sourcelink.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\Agenda_Turnos.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\refint\Agenda_Turnos.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\Agenda_Turnos.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\Agenda_Turnos.genruntimeconfig.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Práctico Experimental\Agenda_Turnos\Agenda_Turnos\obj\Debug\net8.0\ref\Agenda_Turnos.dll
