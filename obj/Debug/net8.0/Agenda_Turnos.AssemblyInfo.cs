@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Agenda_Turnos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a38c542b8d25a0329895169b08242175c957e9b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d876c438fa6c77499a916eeb7777af8ac00b86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Agenda_Turnos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Agenda_Turnos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

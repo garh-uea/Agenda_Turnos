@@ -11,11 +11,9 @@ public struct Direccion
         Ciudad = ciudad;
         Provincia = provincia;
     }
-
-    public override string ToString() => $"{Calle}, {Ciudad}, {Provincia}";
 }
 
-// Representación de un paciente con información básica
+// Variables para la información básica de un paciente
 public record Paciente(
     int HistorialClinico,
     string Nombres,
@@ -24,7 +22,7 @@ public record Paciente(
     string Telefono
 );
 
-// Clase que encapsula la lógica de la Agenda de Turnos
+// Clase para la Agenda de Turnos
 public class AgendaTurnos
 {
     private Paciente[] pacientes;
@@ -49,7 +47,13 @@ public class AgendaTurnos
             Console.WriteLine($"Paciente #{i + 1}");
             Console.WriteLine($"Historial Clínico: {pacientes[i].HistorialClinico}");
             Console.WriteLine($"Nombre: {pacientes[i].Nombres} {pacientes[i].Apellidos}");
-            Console.WriteLine($"Dirección: {pacientes[i].Direccion}");
+
+            // Se muestra la dirección directamente sin usar ToString()
+            Console.WriteLine("Dirección: " +
+                pacientes[i].Direccion.Calle + ", " +
+                pacientes[i].Direccion.Ciudad + ", " +
+                pacientes[i].Direccion.Provincia);
+
             Console.WriteLine($"Teléfono: {pacientes[i].Telefono}");
             Console.WriteLine($"Fecha: {turnos[i, 0]}, Hora: {turnos[i, 1]}");
             Console.WriteLine("-----------------------------");
