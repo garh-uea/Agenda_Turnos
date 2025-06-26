@@ -48,7 +48,7 @@ public class AgendaTurnos
             Console.WriteLine($"Historial Clínico: {pacientes[i].HistorialClinico}");
             Console.WriteLine($"Nombre: {pacientes[i].Nombres} {pacientes[i].Apellidos}");
 
-            // Se muestra la dirección directamente sin usar ToString()
+            // Se muestra la dirección directamente
             Console.WriteLine("Dirección: " +
                 pacientes[i].Direccion.Calle + ", " +
                 pacientes[i].Direccion.Ciudad + ", " +
